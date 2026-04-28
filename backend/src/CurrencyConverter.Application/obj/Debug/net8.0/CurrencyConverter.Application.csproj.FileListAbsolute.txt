@@ -1,0 +1,15 @@
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.deps.json
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.pdb
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Domain.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Domain.pdb
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfo.cs
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\Currency.FC9E407D.Up2Date
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\refint\CurrencyConverter.Application.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.pdb
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Application\obj\Debug\net8.0\ref\CurrencyConverter.Application.dll

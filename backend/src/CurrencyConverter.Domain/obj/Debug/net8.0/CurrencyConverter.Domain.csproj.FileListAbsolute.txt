@@ -1,0 +1,11 @@
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\bin\Debug\net8.0\CurrencyConverter.Domain.deps.json
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\bin\Debug\net8.0\CurrencyConverter.Domain.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\bin\Debug\net8.0\CurrencyConverter.Domain.pdb
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.AssemblyInfoInputs.cache
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.AssemblyInfo.cs
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.csproj.CoreCompileInputs.cache
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\refint\CurrencyConverter.Domain.dll
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\CurrencyConverter.Domain.pdb
+D:\work\currency-converter-platform\backend\src\CurrencyConverter.Domain\obj\Debug\net8.0\ref\CurrencyConverter.Domain.dll

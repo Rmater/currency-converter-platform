@@ -1,0 +1,60 @@
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  color: #f5f5f5;
+  background: #111827;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+* { box-sizing: border-box; }
+.shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+nav { display: flex; gap: 12px; }
+nav a { color: white; text-decoration: none; opacity: .8; }
+nav a.active { opacity: 1; font-weight: 700; }
+.card {
+  background: #1f2937;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.2);
+}
+.grid {
+  display: grid;
+  gap: 12px;
+}
+.grid-4 { grid-template-columns: repeat(4, 1fr); }
+input, select, button {
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid #374151;
+}
+button {
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
+th, td {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #374151;
+}
+.error { color: #fca5a5; }
+.pagination { display: flex; gap: 12px; align-items: center; margin-top: 16px; }
+.result { margin-top: 16px; }
